@@ -1,4 +1,4 @@
-spring.application.name=Ecommerce_Nikee01_Registration_login
+spring.application.name=EcommerceNikee01Registrationlogin
 server.port=8081
 spring.datasource.username=root
 spring.datasource.password=9121631763
